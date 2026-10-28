@@ -16,6 +16,7 @@
 | W1 | Verilog 基础 + HDLBits 1–20 | 进行中 |
 | W2 | 组合逻辑设计 | 待开始 |
 | W2 | Multiplexers 5 题 + ALU/寄存器堆 | 进行中 |
+| W2 | HDLBits 26~30 | 进行中 |
 
 ## 环境
 - Ubuntu 24.04 (WSL2)
